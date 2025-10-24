@@ -7,20 +7,20 @@ example_hud:
     2:
       name: info_card_2
       x: 0
-      y: 58
+      y: 50
     3:
       name: info_card_3
       x: 0
-      y: 66
+      y: 50
     4:
       name: info_card_4
       x: 0
-      y: 74
+      y: 50
     5:
       name: info_card_5
       x: 0
-      y: 82
+      y: 50
     6:
       name: info_card_6
       x: 0
-      y: 90
+      y: 50

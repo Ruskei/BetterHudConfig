@@ -3,43 +3,82 @@ info_card_1:
     1:
       name: pixelorb_info_1_bg
       x: 130
-      y: 0
+      y: -102
     2:
       name: pixelorb_info_1_sprite
       x: 96
-      y: 4
-      color: '#00FFFF'
+      y: -98
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_1_name]'
+      x: 162
+      y: -87
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_1_extra]'
+      x: 162
+      y: -76
+      scale: 0.55
 info_card_2:
   images:
     1:
       name: pixelorb_info_2_bg
       x: 130
-      y: 0
+      y: -68
     2:
       name: pixelorb_info_2_sprite
       x: 96
-      y: 4
-      color: '#00FFFF'
+      y: -64
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_2_name]'
+      x: 162
+      y: -53
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_2_extra]'
+      x: 162
+      y: -42
+      scale: 0.55
 info_card_3:
   images:
     1:
       name: pixelorb_info_3_bg
       x: 130
-      y: 0
+      y: -34
     2:
       name: pixelorb_info_3_sprite
       x: 96
-      y: 4
-      color: '#00FFFF'
+      y: -30
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_3_name]'
+      x: 162
+      y: -19
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_3_extra]'
+      x: 162
+      y: -8
+      scale: 0.55
 info_card_4:
   images:
     1:
@@ -50,35 +89,74 @@ info_card_4:
       name: pixelorb_info_4_sprite
       x: 96
       y: 4
-      color: '#00FFFF'
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_4_name]'
+      x: 162
+      y: 15
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_4_extra]'
+      x: 162
+      y: 26
+      scale: 0.55
 info_card_5:
   images:
     1:
       name: pixelorb_info_5_bg
       x: 130
-      y: 0
+      y: 34
     2:
       name: pixelorb_info_5_sprite
       x: 96
-      y: 4
-      color: '#00FFFF'
+      y: 38
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_5_name]'
+      x: 162
+      y: 49
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_5_extra]'
+      x: 162
+      y: 60
+      scale: 0.55
 info_card_6:
   images:
     1:
       name: pixelorb_info_6_bg
       x: 130
-      y: 0
+      y: 68
     2:
       name: pixelorb_info_6_sprite
       x: 96
-      y: 4
-      color: '#00FFFF'
+      y: 72
+      color: '#FF00EE'
       render-scale:
         x: 0.7
         y: 0.7
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[pokemon_6_name]'
+      x: 162
+      y: 83
+      scale: 0.9
+    2:
+      name: mc_bitmap_font
+      pattern: '[pokemon_6_extra]'
+      x: 162
+      y: 94
+      scale: 0.55
