@@ -1,0 +1,26 @@
+example_hud:
+  layouts:
+    1:
+      name: info_card_1
+      x: 0
+      y: 50
+    2:
+      name: info_card_2
+      x: 0
+      y: 58
+    3:
+      name: info_card_3
+      x: 0
+      y: 66
+    4:
+      name: info_card_4
+      x: 0
+      y: 74
+    5:
+      name: info_card_5
+      x: 0
+      y: 82
+    6:
+      name: info_card_6
+      x: 0
+      y: 90

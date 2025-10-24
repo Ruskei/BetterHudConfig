@@ -1,0 +1,84 @@
+info_card_1:
+  images:
+    1:
+      name: pixelorb_info_1_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_1_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
+info_card_2:
+  images:
+    1:
+      name: pixelorb_info_2_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_2_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
+info_card_3:
+  images:
+    1:
+      name: pixelorb_info_3_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_3_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
+info_card_4:
+  images:
+    1:
+      name: pixelorb_info_4_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_4_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
+info_card_5:
+  images:
+    1:
+      name: pixelorb_info_5_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_5_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
+info_card_6:
+  images:
+    1:
+      name: pixelorb_info_6_bg
+      x: 130
+      y: 0
+    2:
+      name: pixelorb_info_6_sprite
+      x: 96
+      y: 4
+      color: '#00FFFF'
+      render-scale:
+        x: 0.7
+        y: 0.7
