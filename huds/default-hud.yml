@@ -1,3 +1,6 @@
 test_hud:
   layouts:
-
+# 1:
+#   name: health
+#   x: 50
+#   y: 50

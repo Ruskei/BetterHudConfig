@@ -3,25 +3,25 @@ battle_options:
     1:
       name: pixelorb_move_fight
       x: -113
-      y: -50
+      y: -70
     2:
       name: pixelorb_move_bag
       x: -41
-      y: -50
+      y: -70
     3:
       name: pixelorb_move_switch
       x: 31
-      y: -50
+      y: -70
     4:
       name: pixelorb_move_flee
       x: 103
-      y: -50
+      y: -70
   texts:
     1:
       name: mc_bitmap_font
       pattern: Fight
       x: -77
-      y: -35
+      y: -55
       scale: 1
       align: center
       conditions:
@@ -33,7 +33,7 @@ battle_options:
       name: mc_bitmap_font
       pattern: Bag
       x: -5
-      y: -35
+      y: -55
       scale: 1
       align: center
       conditions:
@@ -45,7 +45,7 @@ battle_options:
       name: mc_bitmap_font
       pattern: Switch
       x: 67
-      y: -35
+      y: -55
       scale: 1
       align: center
       conditions:
@@ -57,7 +57,7 @@ battle_options:
       name: mc_bitmap_font
       pattern: Flee
       x: 139
-      y: -35
+      y: -55
       scale: 1
       align: center
       conditions:

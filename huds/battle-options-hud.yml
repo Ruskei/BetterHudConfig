@@ -24,3 +24,7 @@ battle_hud:
       name: back
       x: 50
       y: 100
+    7:
+      name: battle_switch
+      x: 50
+      y: 100

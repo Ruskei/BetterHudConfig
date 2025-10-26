@@ -3,25 +3,25 @@ battle_fight_1:
     1:
       name: pixelorb_move_1
       x: -165
-      y: -60
+      y: -70
     2:
       name: pixelorb_effectiveness_1
       x: -145
-      y: -47
+      y: -57
       scale: 0.75
   texts:
     1:
       name: mc_bitmap_font
       pattern: '[battle_move_1_name]'
       x: -145
-      y: -48
+      y: -58
       scale: 0.9
       align: left
     2:
       name: battle_fight_pp_font
       pattern: '[battle_move_1_pp]'
       x: -94
-      y: -38
+      y: -48
       scale: 0.9
       align: left
 battle_fight_2:
@@ -29,25 +29,25 @@ battle_fight_2:
     1:
       name: pixelorb_move_2
       x: -55
-      y: -60
+      y: -70
     2:
       name: pixelorb_effectiveness_2
       x: -35
-      y: -47
+      y: -57
       scale: 0.75
   texts:
     1:
       name: mc_bitmap_font
       pattern: '[battle_move_2_name]'
       x: -35
-      y: -48
+      y: -58
       scale: 0.9
       align: left
     2:
       name: battle_fight_pp_font
       pattern: '[battle_move_2_pp]'
       x: 16
-      y: -38
+      y: -48
       scale: 0.9
       align: left
 battle_fight_3:
@@ -55,25 +55,25 @@ battle_fight_3:
     1:
       name: pixelorb_move_3
       x: 55
-      y: -60
+      y: -70
     2:
       name: pixelorb_effectiveness_3
       x: 75
-      y: -47
+      y: -57
       scale: 0.75
   texts:
     1:
       name: mc_bitmap_font
       pattern: '[battle_move_3_name]'
       x: 75
-      y: -48
+      y: -58
       scale: 0.9
       align: left
     2:
       name: battle_fight_pp_font
       pattern: '[battle_move_3_pp]'
       x: 126
-      y: -38
+      y: -48
       scale: 0.9
       align: left
 battle_fight_4:
@@ -81,25 +81,25 @@ battle_fight_4:
     1:
       name: pixelorb_move_4
       x: 165
-      y: -60
+      y: -70
     2:
       name: pixelorb_effectiveness_4
       x: 185
-      y: -47
+      y: -57
       scale: 0.75
   texts:
     1:
       name: mc_bitmap_font
       pattern: '[battle_move_4_name]'
       x: 185
-      y: -48
+      y: -58
       scale: 0.9
       align: left
     2:
       name: battle_fight_pp_font
       pattern: '[battle_move_4_pp]'
       x: 236
-      y: -38
+      y: -48
       scale: 0.9
       align: left
 back:
@@ -107,4 +107,4 @@ back:
     1:
       name: pixelorb_back
       x: 235
-      y: -58
+      y: -68

@@ -1,0 +1,26 @@
+battle_switch:
+  images:
+    1:
+      name: battle_switch_pokemon_sprite
+      x: 68
+      y: -180
+      color: '#FF00EE'
+      scale: 3.0
+    2:
+      name: battle_switch_pokemon_health
+      x: 58
+      y: -80
+      scale: 0.5
+  texts:
+    1:
+      name: mc_bitmap_font
+      pattern: '[battle_switch_pokemon_name]'
+      x: 118
+      y: -190
+      scale: 1.5
+      align: center
+      outline: true
+  animations:
+    duration: 60
+    x-equation: 0
+    y-equation: 3cos(t/30 * pi)
