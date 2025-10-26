@@ -1,0 +1,40 @@
+pixelorb_move_fight:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_options_fighting
+      max: 2
+  files:
+    - pixelorb/battle/actions/move_fighting_deselected.png
+    - pixelorb/battle/actions/move_fighting_selected.png
+pixelorb_move_bag:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_options_bag
+      max: 2
+  files:
+    - pixelorb/battle/actions/move_bag_deselected.png
+    - pixelorb/battle/actions/move_bag_selected.png
+pixelorb_move_switch:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_options_switch
+      max: 2
+  files:
+    - pixelorb/battle/actions/move_flee_deselected.png
+    - pixelorb/battle/actions/move_flee_selected.png
+pixelorb_move_flee:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_options_flee
+      max: 2
+  files:
+    - pixelorb/battle/actions/move_flee_deselected.png
+    - pixelorb/battle/actions/move_flee_selected.png

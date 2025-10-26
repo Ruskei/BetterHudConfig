@@ -1,0 +1,26 @@
+battle_hud:
+  layouts:
+    1:
+      name: battle_options
+      x: 50
+      y: 100
+    2:
+      name: battle_fight_1
+      x: 50
+      y: 100
+    3:
+      name: battle_fight_2
+      x: 50
+      y: 100
+    4:
+      name: battle_fight_3
+      x: 50
+      y: 100
+    5:
+      name: battle_fight_4
+      x: 50
+      y: 100
+    6:
+      name: back
+      x: 50
+      y: 100

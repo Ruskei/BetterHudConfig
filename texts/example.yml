@@ -4,6 +4,14 @@ example_font:
 mc_font:
   file: minecraft.ttf
   scale: 16
+battle_fight_pp_font:
+  type: bitmap
+  chars:
+    all:
+      ascent: 7
+      file: pixelorb/font/pp_font.png
+      codepoints:
+        - "0123456789/ "
 mc_bitmap_font:
   type: bitmap
   chars:

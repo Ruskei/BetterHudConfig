@@ -1,0 +1,254 @@
+pixelorb_move_1:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_1_bg_idx
+      max: 40
+  files:
+    - pixelorb/battle/actions/bug_deselected.png
+    - pixelorb/battle/actions/bug_selected.png
+    - pixelorb/battle/actions/dark_deselected.png
+    - pixelorb/battle/actions/dark_selected.png
+    - pixelorb/battle/actions/dragon_deselected.png
+    - pixelorb/battle/actions/dragon_selected.png
+    - pixelorb/battle/actions/electric_deselected.png
+    - pixelorb/battle/actions/electric_selected.png
+    - pixelorb/battle/actions/fairy_deselected.png
+    - pixelorb/battle/actions/fairy_selected.png
+    - pixelorb/battle/actions/fighting_deselected.png
+    - pixelorb/battle/actions/fighting_selected.png
+    - pixelorb/battle/actions/fire_deselected.png
+    - pixelorb/battle/actions/fire_selected.png
+    - pixelorb/battle/actions/flying_deselected.png
+    - pixelorb/battle/actions/flying_selected.png
+    - pixelorb/battle/actions/ghost_deselected.png
+    - pixelorb/battle/actions/ghost_selected.png
+    - pixelorb/battle/actions/grass_deselected.png
+    - pixelorb/battle/actions/grass_selected.png
+    - pixelorb/battle/actions/ground_deselected.png
+    - pixelorb/battle/actions/ground_selected.png
+    - pixelorb/battle/actions/ice_deselected.png
+    - pixelorb/battle/actions/ice_selected.png
+    - pixelorb/battle/actions/mystery_deselected.png
+    - pixelorb/battle/actions/mystery_selected.png
+    - pixelorb/battle/actions/none_deselected.png
+    - pixelorb/battle/actions/none_selected.png
+    - pixelorb/battle/actions/normal_deselected.png
+    - pixelorb/battle/actions/normal_selected.png
+    - pixelorb/battle/actions/poison_deselected.png
+    - pixelorb/battle/actions/poison_selected.png
+    - pixelorb/battle/actions/psychic_deselected.png
+    - pixelorb/battle/actions/psychic_selected.png
+    - pixelorb/battle/actions/rock_deselected.png
+    - pixelorb/battle/actions/rock_selected.png
+    - pixelorb/battle/actions/steel_deselected.png
+    - pixelorb/battle/actions/steel_selected.png
+    - pixelorb/battle/actions/water_deselected.png
+    - pixelorb/battle/actions/water_selected.png
+pixelorb_move_2:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_2_bg_idx
+      max: 40
+  files:
+    - pixelorb/battle/actions/bug_deselected.png
+    - pixelorb/battle/actions/bug_selected.png
+    - pixelorb/battle/actions/dark_deselected.png
+    - pixelorb/battle/actions/dark_selected.png
+    - pixelorb/battle/actions/dragon_deselected.png
+    - pixelorb/battle/actions/dragon_selected.png
+    - pixelorb/battle/actions/electric_deselected.png
+    - pixelorb/battle/actions/electric_selected.png
+    - pixelorb/battle/actions/fairy_deselected.png
+    - pixelorb/battle/actions/fairy_selected.png
+    - pixelorb/battle/actions/fighting_deselected.png
+    - pixelorb/battle/actions/fighting_selected.png
+    - pixelorb/battle/actions/fire_deselected.png
+    - pixelorb/battle/actions/fire_selected.png
+    - pixelorb/battle/actions/flying_deselected.png
+    - pixelorb/battle/actions/flying_selected.png
+    - pixelorb/battle/actions/ghost_deselected.png
+    - pixelorb/battle/actions/ghost_selected.png
+    - pixelorb/battle/actions/grass_deselected.png
+    - pixelorb/battle/actions/grass_selected.png
+    - pixelorb/battle/actions/ground_deselected.png
+    - pixelorb/battle/actions/ground_selected.png
+    - pixelorb/battle/actions/ice_deselected.png
+    - pixelorb/battle/actions/ice_selected.png
+    - pixelorb/battle/actions/mystery_deselected.png
+    - pixelorb/battle/actions/mystery_selected.png
+    - pixelorb/battle/actions/none_deselected.png
+    - pixelorb/battle/actions/none_selected.png
+    - pixelorb/battle/actions/normal_deselected.png
+    - pixelorb/battle/actions/normal_selected.png
+    - pixelorb/battle/actions/poison_deselected.png
+    - pixelorb/battle/actions/poison_selected.png
+    - pixelorb/battle/actions/psychic_deselected.png
+    - pixelorb/battle/actions/psychic_selected.png
+    - pixelorb/battle/actions/rock_deselected.png
+    - pixelorb/battle/actions/rock_selected.png
+    - pixelorb/battle/actions/steel_deselected.png
+    - pixelorb/battle/actions/steel_selected.png
+    - pixelorb/battle/actions/water_deselected.png
+    - pixelorb/battle/actions/water_selected.png
+pixelorb_move_3:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_3_bg_idx
+      max: 40
+  files:
+    - pixelorb/battle/actions/bug_deselected.png
+    - pixelorb/battle/actions/bug_selected.png
+    - pixelorb/battle/actions/dark_deselected.png
+    - pixelorb/battle/actions/dark_selected.png
+    - pixelorb/battle/actions/dragon_deselected.png
+    - pixelorb/battle/actions/dragon_selected.png
+    - pixelorb/battle/actions/electric_deselected.png
+    - pixelorb/battle/actions/electric_selected.png
+    - pixelorb/battle/actions/fairy_deselected.png
+    - pixelorb/battle/actions/fairy_selected.png
+    - pixelorb/battle/actions/fighting_deselected.png
+    - pixelorb/battle/actions/fighting_selected.png
+    - pixelorb/battle/actions/fire_deselected.png
+    - pixelorb/battle/actions/fire_selected.png
+    - pixelorb/battle/actions/flying_deselected.png
+    - pixelorb/battle/actions/flying_selected.png
+    - pixelorb/battle/actions/ghost_deselected.png
+    - pixelorb/battle/actions/ghost_selected.png
+    - pixelorb/battle/actions/grass_deselected.png
+    - pixelorb/battle/actions/grass_selected.png
+    - pixelorb/battle/actions/ground_deselected.png
+    - pixelorb/battle/actions/ground_selected.png
+    - pixelorb/battle/actions/ice_deselected.png
+    - pixelorb/battle/actions/ice_selected.png
+    - pixelorb/battle/actions/mystery_deselected.png
+    - pixelorb/battle/actions/mystery_selected.png
+    - pixelorb/battle/actions/none_deselected.png
+    - pixelorb/battle/actions/none_selected.png
+    - pixelorb/battle/actions/normal_deselected.png
+    - pixelorb/battle/actions/normal_selected.png
+    - pixelorb/battle/actions/poison_deselected.png
+    - pixelorb/battle/actions/poison_selected.png
+    - pixelorb/battle/actions/psychic_deselected.png
+    - pixelorb/battle/actions/psychic_selected.png
+    - pixelorb/battle/actions/rock_deselected.png
+    - pixelorb/battle/actions/rock_selected.png
+    - pixelorb/battle/actions/steel_deselected.png
+    - pixelorb/battle/actions/steel_selected.png
+    - pixelorb/battle/actions/water_deselected.png
+    - pixelorb/battle/actions/water_selected.png
+pixelorb_move_4:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_4_bg_idx
+      max: 40
+  files:
+    - pixelorb/battle/actions/bug_deselected.png
+    - pixelorb/battle/actions/bug_selected.png
+    - pixelorb/battle/actions/dark_deselected.png
+    - pixelorb/battle/actions/dark_selected.png
+    - pixelorb/battle/actions/dragon_deselected.png
+    - pixelorb/battle/actions/dragon_selected.png
+    - pixelorb/battle/actions/electric_deselected.png
+    - pixelorb/battle/actions/electric_selected.png
+    - pixelorb/battle/actions/fairy_deselected.png
+    - pixelorb/battle/actions/fairy_selected.png
+    - pixelorb/battle/actions/fighting_deselected.png
+    - pixelorb/battle/actions/fighting_selected.png
+    - pixelorb/battle/actions/fire_deselected.png
+    - pixelorb/battle/actions/fire_selected.png
+    - pixelorb/battle/actions/flying_deselected.png
+    - pixelorb/battle/actions/flying_selected.png
+    - pixelorb/battle/actions/ghost_deselected.png
+    - pixelorb/battle/actions/ghost_selected.png
+    - pixelorb/battle/actions/grass_deselected.png
+    - pixelorb/battle/actions/grass_selected.png
+    - pixelorb/battle/actions/ground_deselected.png
+    - pixelorb/battle/actions/ground_selected.png
+    - pixelorb/battle/actions/ice_deselected.png
+    - pixelorb/battle/actions/ice_selected.png
+    - pixelorb/battle/actions/mystery_deselected.png
+    - pixelorb/battle/actions/mystery_selected.png
+    - pixelorb/battle/actions/none_deselected.png
+    - pixelorb/battle/actions/none_selected.png
+    - pixelorb/battle/actions/normal_deselected.png
+    - pixelorb/battle/actions/normal_selected.png
+    - pixelorb/battle/actions/poison_deselected.png
+    - pixelorb/battle/actions/poison_selected.png
+    - pixelorb/battle/actions/psychic_deselected.png
+    - pixelorb/battle/actions/psychic_selected.png
+    - pixelorb/battle/actions/rock_deselected.png
+    - pixelorb/battle/actions/rock_selected.png
+    - pixelorb/battle/actions/steel_deselected.png
+    - pixelorb/battle/actions/steel_selected.png
+    - pixelorb/battle/actions/water_deselected.png
+    - pixelorb/battle/actions/water_selected.png
+pixelorb_effectiveness_1:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_1_eff
+      max: 5
+  files:
+    - pixelorb/battle/effectiveness/effective.png
+    - pixelorb/battle/effectiveness/not_effective.png
+    - pixelorb/battle/effectiveness/not_very_effective.png
+    - pixelorb/battle/effectiveness/status.png
+    - pixelorb/battle/effectiveness/super_effective.png
+pixelorb_effectiveness_2:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_2_eff
+      max: 5
+  files:
+    - pixelorb/battle/effectiveness/effective.png
+    - pixelorb/battle/effectiveness/not_effective.png
+    - pixelorb/battle/effectiveness/not_very_effective.png
+    - pixelorb/battle/effectiveness/status.png
+    - pixelorb/battle/effectiveness/super_effective.png
+pixelorb_effectiveness_3:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_3_eff
+      max: 5
+  files:
+    - pixelorb/battle/effectiveness/effective.png
+    - pixelorb/battle/effectiveness/not_effective.png
+    - pixelorb/battle/effectiveness/not_very_effective.png
+    - pixelorb/battle/effectiveness/status.png
+    - pixelorb/battle/effectiveness/super_effective.png
+pixelorb_effectiveness_4:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_move_4_eff
+      max: 5
+  files:
+    - pixelorb/battle/effectiveness/effective.png
+    - pixelorb/battle/effectiveness/not_effective.png
+    - pixelorb/battle/effectiveness/not_very_effective.png
+    - pixelorb/battle/effectiveness/status.png
+    - pixelorb/battle/effectiveness/super_effective.png
+pixelorb_back:
+  type: sequence
+  setting:
+    listener:
+      class: placeholder
+      value: battle_back
+      max: 2
+  files:
+    - pixelorb/battle/back/deselected.png
+    - pixelorb/battle/back/selected.png
